@@ -12,5 +12,5 @@ while True:
 
     if first_half == ['']:
         first_half = []
-    b = [first_half, second_half]
-    print(b)
+    result = [first_half, second_half]
+    print(result)
