@@ -24,4 +24,4 @@ def roman_to_integer(s):
 while True:
     s = input("Введіть римське число: ")
 
-    print(roman_to_integer(s))
+    print(f"Число {s} дорівнює: {roman_to_integer(s)}")
